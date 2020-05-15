@@ -11,9 +11,4 @@ Module.register("MMM-GrandTotal",{
 		return wrapper;
 	},
 
-	loaded: function(callback) {
-		this.finishLoading();
-		Log.log(this.name + ' is loaded!');
-		callback();
-	}
 });
