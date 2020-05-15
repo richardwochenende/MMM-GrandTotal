@@ -1,7 +1,7 @@
 Module.register("MMM-GrandTotal",{
 	// Default module config.
 	defaults: {
-		text: "Hello World!"
+		text: "ThisIsMyFirstModule"
 	},
 
 	// Override dom generator.
